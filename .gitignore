@@ -1,9 +1,0 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-.idea
-/client/target/
-/server/target/
-/client/log.*
-/server/log.*
-/src
